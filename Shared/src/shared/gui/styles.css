@@ -1,0 +1,50 @@
+/*
+ * Copyright (C) 2019 Philip Mortimer
+ *
+ * This file is part of Philip Mortimer Example Programs.
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ */
+.numericinputarea {
+    -fx-background-color: #b3e6c9;
+    -fx-padding: 5 5 15 8;
+    -fx-hgap: 2;
+    -fx-vgap: 2;
+/*    -fx-border-color: #2e8b57;*/
+    -fx-border-color: transparent transparent blue transparent;
+    -fx-border-width: 1;
+}
+
+.controlarea {
+    -fx-spacing: 5;
+}
+
+.maincomponent {
+    -fx-border-color: transparent transparent blue blue;
+    -fx-border-width: 1;
+}
+
+.controlandmessagearea {
+    -fx-background-color: #b3e6c9;
+    -fx-padding: 10 0 5 5;
+}
+
+.chart {
+    -fx-background-color:  #fafad2
+}
+
+.text-area {
+  -fx-font-family: Consolas;
+  -fx-font-size: 12px;
+}
