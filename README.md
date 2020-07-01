@@ -2,6 +2,7 @@
 
 This repository contains programs which plot functions such as the quadratic function using line charts. 
 These programs use JavaFX so JavaFX needs to be installed on your computer (see https://openjfx.io/).
+The programs were developed using NetBeans but this repository only currently contains the source files.
 
 The programs are to be found in the following folders:
 
